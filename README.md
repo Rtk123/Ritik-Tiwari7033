@@ -37,7 +37,7 @@ You can perform all these analyses on group chats as well as individual chats.
 
 ## Demo
 
-You can see the demo of _WhatsChat_ by visiting the following link: [WhatsChat](https://shrudex-whatschat.streamlit.app/)
+You can see the demo of _WhatsChat_ by visiting the following link: 
 
 ## Usage
 
@@ -59,7 +59,7 @@ Contributions are always welcome! If you want to contribute to this project, fee
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us at codeshubh@gmail.com.
+If you have any questions or suggestions, feel free to contact us at Ritiktiwarilive@gmail.com.
 
 ## Acknowledgements
 
